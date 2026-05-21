@@ -26,3 +26,30 @@ Sample Output 2:
 7 is not an Abundant number (Output)
 
 output:
+
+
+
+
+#include <stdio.h>
+int main ()
+{
+    int a,b,num,i,j,sum=0;
+    scanf("%d",&num);
+    for(i=1;i<num;i++)
+    {
+        a=num%i;
+        if(a==0){
+            //printf("%d",i);
+            sum=sum+i;
+            
+        }
+    }
+    if(sum>num){
+        printf("%d is Abundant number",num);
+    }
+    else
+    {
+        printf("%d is not an Abundant number ",num);
+    }
+    return 0;
+}
