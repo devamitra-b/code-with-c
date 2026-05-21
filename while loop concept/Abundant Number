@@ -28,8 +28,6 @@ Sample Output 2:
 output:
 
 
-
-
 #include <stdio.h>
 int main ()
 {
