@@ -29,3 +29,5 @@ void arrange(int *arr, int n)
         value++;
     }
 }
+
+
