@@ -28,6 +28,10 @@ void intcon(int *src1, int size1, int *src2, int size2, int *dst)
         *(dst + i) = *(src1 + i);
     }
 
+
+
+    
+
     for(i = 0; i < size2; i++)
     {
         *(dst + size1 + i) = *(src2 + i);
