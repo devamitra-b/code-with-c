@@ -5,7 +5,7 @@ This directory contains programming assessments and exercises for practice and e
 ## 📋 Assessments
 
 ### Assessment 11
-- [Details about assessment 11]
+- [example problems for pointers]
 
 ### Assessment 12
 - [Details about assessment 12]
