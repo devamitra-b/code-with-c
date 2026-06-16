@@ -2,6 +2,7 @@
 
 int main() {
 
+    
     /* Print the sum of numbers from 1 to 6 using while loop */
 
     int i = 1;
