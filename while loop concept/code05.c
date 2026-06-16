@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
 
     /* Print odd numbers between 1 and 9 using while loop */
 
