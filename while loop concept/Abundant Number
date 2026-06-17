@@ -15,6 +15,7 @@ Craft a program that prompts the user to enter the input. An abundant number is 
 the sum of its proper divisors (excluding itself) is greater than the number itself. Your program should be able to
 take an integer input from the user and check whether a given integer number is an abundant number or not.
 abundant number :
+
 (i.e) 12
 1+2+3+4+6=16
 16>12
