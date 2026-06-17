@@ -8,6 +8,7 @@ within the digits. One sunny afternoon, as Alex sat in front of their computer, 
 winds. It spoke of abundant numbers, those elusive integers whose divisors danced in a sum greater than the
 numbers themselves. Intrigued, Alex set out on a quest to craft a program that could decipher the abundant numbers
 from the ordinary.
+
 Task:
 Craft a program that prompts the user to enter the input. An abundant number is a positive integer for which
 the sum of its proper divisors (excluding itself) is greater than the number itself. Your program should be able to
